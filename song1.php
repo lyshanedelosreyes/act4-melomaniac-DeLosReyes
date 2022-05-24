@@ -19,7 +19,7 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><a class="nav-link text-light" href="song1.php">Song 1</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="#">Song 2</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="song2.php">Song 2</a></li>
                         <li class="nav-item"><a class="nav-link text-light" href="#">Song 3</a></li>
                          <li class="nav-item"><a class="nav-link text-light" href="#">Song 4</a></li>
                           <li class="nav-item"><a class="nav-link text-light" href="#">Song 5</a></li>
