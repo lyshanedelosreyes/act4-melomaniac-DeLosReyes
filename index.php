@@ -14,7 +14,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="mainNav">
             <div class="container px-4">
-                <a class="navbar-brand" href="#page-top"> Add your brand name here </a>
+                <a class="navbar-brand" href="#page-top"> iLyrics </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
@@ -30,8 +30,8 @@
         <!-- Header-->
         <header class="bg-dark bg-gradient text-white">
             <div class="container px-4 text-center">
-                <h1 class="fw-bolder">Welcome to Melomaniac</h1>
-                <p class="lead">Add a short description here</p>
+                <h1 class="fw-bolder">Welcome to iLyrics</h1>
+                <p class="lead">Music is the great uniter. An incredible force. Something that people who differ on everything and anything else can have in common.” ― Sarah Dessen</p>
                 
             </div>
         </header>
@@ -40,16 +40,18 @@
             <div class="container px-4 ">
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
-                        <h2 class="text-primary">Song Title here</h2>
-                        <p class="lead">display the Composer here</p>
-                        <p>display the lyrics/chords here</p>
+                        <p>Line Without A Hook by Ricky Montgomery</p>
+                        <p>To The Bone by Pamungkas</p>
+                        <p>I Love You So by The Walters</p>
+                        <p>All We Know by The Chainsmokers (feat. Phoebe Ryan)</p>
+                        <p>Lover by Taylor Swift</p>
                     </div>
                 </div>
             </div>
         </section>
 
         <footer class="py-3 bg-danger">
-            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. add your fullname here</p></div>
+            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. Lyshane De Los Reyes</p></div>
         </footer>
         <!-- Bootstrap core JS-->
         <script src="js/bootstrap.bundle.min.js"></script>
